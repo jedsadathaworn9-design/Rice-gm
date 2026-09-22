@@ -1,0 +1,14 @@
+{
+  "name": "MG Ricekm",
+  "short_name": "MG Ricekm",
+  "description": "ถ่ายรูปต้นข้าว วิเคราะห์อาการและวิธีแก้ไขด้วย AI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1f3325",
+  "theme_color": "#1f3325",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
